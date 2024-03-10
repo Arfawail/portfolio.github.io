@@ -35,14 +35,15 @@ body{
 
 .navbar ul li a{
     text-decoration: none;
-    color: #090909;
+    color: #7b7b7b;
     font-size: 16px;
     margin-right: 25px;
     transition: color 0.3s ease;
+    cursor: pointer;
 }
 
 .navbar ul li:hover a{
-    /* color: #ffb742; */
+    color: #090909;
 }
 
 .navbar ul li:last-child a{
